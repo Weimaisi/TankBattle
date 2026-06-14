@@ -22,6 +22,9 @@ namespace Main
     
     public abstract class Tank : MonoBehaviour, IAgent
     {
+        // Event for external tracking (used by BatchMatchRunner)
+        public static event System.Action<Tank, bool> OnStarTaken; // (taker, isSuperStar)
+
         private Transform m_TurretTF;
         private Transform m_FirePosTF;
         private Vector3 m_TurretTargetPos;
@@ -257,7 +260,8 @@ namespace Main
         }
         internal void TakeDamage(Tank damager)
         {
-            HP -= Match.instance.GlobalSetting.DamagePerHit;
+            int damage = Match.instance.GlobalSetting.DamagePerHit;
+            HP -= damage;
             if(HP <= 0)
             {
                 damager.Kill();
@@ -309,6 +313,7 @@ namespace Main
             AddScore(isSuperStar ? 
                 Match.instance.GlobalSetting.ScoreForSuperStar :
                 Match.instance.GlobalSetting.ScoreForStar);
+            OnStarTaken?.Invoke(this, isSuperStar);
             var resName = string.Empty;
             switch (Team)
             {

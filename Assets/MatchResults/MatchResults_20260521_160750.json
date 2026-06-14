@@ -1,0 +1,186 @@
+﻿{
+  "timestamp": "2026-05-21 16:20:03",
+  "totalMatches": 20,
+  "results": [
+    {
+      "matchNumber": 1,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 160 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 130 },
+      "winner": "SM",
+      "superStarTaker": "SM",
+      "duration": 180.1,
+      "timestamp": "2026-05-21 16:08:27"
+    },
+    {
+      "matchNumber": 2,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 135 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 150 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:09:03"
+    },
+    {
+      "matchNumber": 3,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 120 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 165 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:09:40"
+    },
+    {
+      "matchNumber": 4,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 175 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 95 },
+      "winner": "SM",
+      "superStarTaker": "SM",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:10:16"
+    },
+    {
+      "matchNumber": 5,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 90 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 195 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:10:53"
+    },
+    {
+      "matchNumber": 6,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 155 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 105 },
+      "winner": "SM",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:11:30"
+    },
+    {
+      "matchNumber": 7,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 90 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 195 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:12:06"
+    },
+    {
+      "matchNumber": 8,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 105 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 150 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:12:43"
+    },
+    {
+      "matchNumber": 9,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 140 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 150 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:13:20"
+    },
+    {
+      "matchNumber": 10,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 115 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 130 },
+      "winner": "WBQ",
+      "superStarTaker": "SM",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:13:56"
+    },
+    {
+      "matchNumber": 11,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 125 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 145 },
+      "winner": "WBQ",
+      "superStarTaker": "SM",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:14:33"
+    },
+    {
+      "matchNumber": 12,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 125 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 175 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:15:10"
+    },
+    {
+      "matchNumber": 13,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 120 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 155 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:15:46"
+    },
+    {
+      "matchNumber": 14,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 135 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 135 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:16:23"
+    },
+    {
+      "matchNumber": 15,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 170 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 115 },
+      "winner": "SM",
+      "superStarTaker": "SM",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:17:00"
+    },
+    {
+      "matchNumber": 16,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 60 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 210 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:17:36"
+    },
+    {
+      "matchNumber": 17,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 145 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 130 },
+      "winner": "SM",
+      "superStarTaker": "WBQ",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:18:13"
+    },
+    {
+      "matchNumber": 18,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 70 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 170 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:18:49"
+    },
+    {
+      "matchNumber": 19,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 80 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 155 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.8,
+      "timestamp": "2026-05-21 16:19:26"
+    },
+    {
+      "matchNumber": 20,
+      "teamA": { "script": "SM.MyTank", "name": "SM", "score": 60 },
+      "teamB": { "script": "WBQ.MyTank", "name": "WBQ", "score": 195 },
+      "winner": "WBQ",
+      "superStarTaker": "WBQ",
+      "duration": 179.9,
+      "timestamp": "2026-05-21 16:20:03"
+    }
+  ]
+}
